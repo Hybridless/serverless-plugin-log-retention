@@ -1,5 +1,5 @@
 {
-  "name": "serverless-plugin-log-retention",
+  "name": "@hybridless/serverless-plugin-log-retention",
   "version": "2.0.0",
   "description": "Control the retention of your function's cloudwatch logs.",
   "main": "add-log-retention.js",
@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "nco": "1.0.1",
-    "semver": "5.4.1"
+    "semver": "5.7.2"
   },
   "devDependencies": {
     "chai": "4.1.2",
